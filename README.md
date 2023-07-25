@@ -21,4 +21,4 @@ Este ReadMe tem como objetivo salvar alguns links que eu uso como desenvolvedor.
 ## Cursos
 
 - React Native Alura: https://cursos.alura.com.br/course/react-native-comecando-zero
-- React Native Udemy: udemy.com/course/curso-react-native/learn/lecture/
+- React Native Udemy: https://www.udemy.com/course/curso-react-native/learn/lecture/
