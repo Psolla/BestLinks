@@ -16,6 +16,7 @@ Este ReadMe tem como objetivo salvar alguns links que eu uso como desenvolvedor.
 - GitHub: https://github.com/Psolla
 - Trello: https://trello.com/
 - Online Markdown: https://dillinger.io/
+- GitFlow: https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=What%20is%20Gitflow%3F,lived%20branches%20and%20larger%20commits.
 
 
 ## Cursos
